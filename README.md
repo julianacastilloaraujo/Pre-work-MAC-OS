@@ -3,3 +3,5 @@
 * Que es el navegador 
 * Renderizar
 * Chrome : Canary, Dev, Stable
+* Editores : WS, ATOM, VSC
+* Extensiones :  Prettier,
