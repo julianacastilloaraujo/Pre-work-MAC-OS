@@ -1,5 +1,5 @@
-# Curso Pre-Work MAC OS - Profe: Ricardo Celis 💚
-
+# Curso Pre-Work MAC OS en Platzi 💚
+* Profe: Ricardo Celis 
 * Que es el navegador 
 * Renderizar
 * Chrome : Canary, Dev, Stable
