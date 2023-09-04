@@ -4,4 +4,4 @@
 * Renderizar
 * Chrome : Canary, Dev, Stable
 * Editores : WS, ATOM, VSC
-* Extensiones :  Prettier,
+* Extensiones :  Prettier, Color Highlight, Live Server
